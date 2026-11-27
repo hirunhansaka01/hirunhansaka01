@@ -16,7 +16,7 @@ I enjoy turning ideas into practical products—from responsive websites and ful
 
 - **UI & Graphic Design** — Creating clean visual identities, interfaces, posters, and digital experiences.
 
-- **AI & Automation** — Exploring AI integrations, intelligent tools, and workflow automation.
+- **AI & Automation** — Exploring intelligent tools and workflow automation.
 
 - **Video Editing** — Producing and editing engaging visual content.
 
@@ -43,17 +43,13 @@ I enjoy turning ideas into practical products—from responsive websites and ful
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white)
 
-### AI & Automation
-
-![Google Gemini](https://img.shields.io/badge/Google_Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
-![Python](https://img.shields.io/badge/AI_Integrations-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
 ### Tools & DevOps
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![OpenCode](https://img.shields.io/badge/OpenCode-1F1F1F?style=for-the-badge&logo=opencode&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
 ### Design & Creative Tools
@@ -72,7 +68,7 @@ A creative web design project focused on visual storytelling, distinctive brandi
 
 ### EDITH
 
-An experimental AI-powered desktop assistant exploring intelligent interactions, automation, and practical AI integrations.
+An experimental AI-powered desktop assistant exploring intelligent interactions, automation, and practical AI applications.
 
 ### RCPAS Website Design
 
@@ -105,10 +101,10 @@ Outside of software development, I enjoy photography, visual storytelling, graph
 ## GitHub Statistics
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=hirunhansaka01&show_icons=true&theme=transparent&hide_border=true&title_color=FF6300&icon_color=FF6300" height="165" alt="Hirun's GitHub statistics" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hirunhansaka01&layout=compact&theme=transparent&hide_border=true&title_color=FF6300" height="165" alt="Hirun's most used languages" />
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=transparent&hide_border=true&title_color=FF6300&icon_color=FF6300" height="165" alt="Hirun's GitHub statistics" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=transparent&hide_border=true&title_color=FF6300" height="165" alt="Hirun's most used languages" />
 </p> <p align="center">
-  <img src="https://streak-stats.demolab.com?user=hirunhansaka01&theme=transparent&hide_border=true&ring=FF6300&fire=FF6300&currStreakLabel=FF6300" alt="Hirun's GitHub contribution streak" />
+  <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=transparent&hide_border=true&ring=FF6300&fire=FF6300&currStreakLabel=FF6300" alt="Hirun's GitHub contribution streak" />
 </p>
 
 ---
@@ -117,7 +113,7 @@ Outside of software development, I enjoy photography, visual storytelling, graph
 
 I'm open to collaborating on interesting projects, discussing technology and design, and learning from other developers and creators.
 
-- **GitHub:** [@hirunhansaka01](https://github.com/hirunhansaka01)
+- **GitHub:** [@hirunhansaka01](https://github.com/YOUR_USERNAME)
 
 - **Portfolio:** [Visit my website](https://YOUR_WEBSITE)
 
@@ -126,4 +122,3 @@ I'm open to collaborating on interesting projects, discussing technology and des
 <p align="center">
 <strong>Always learning. Always creating. Always exploring.</strong>
 </p>
-
