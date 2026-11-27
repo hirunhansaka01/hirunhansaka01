@@ -42,6 +42,7 @@ I enjoy turning ideas into practical products—from responsive websites and ful
 
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 
 ### Tools & DevOps
 
@@ -66,9 +67,9 @@ I enjoy turning ideas into practical products—from responsive websites and ful
 
 A creative web design project focused on visual storytelling, distinctive branding, and engaging digital experiences.
 
-### EDITH
+### Rig Music
 
-An experimental AI-powered desktop assistant exploring intelligent interactions, automation, and practical AI applications.
+A guitar tuner app designed for musicians, featuring custom tools built specifically for guitarists.
 
 ### RCPAS Website Design
 
@@ -101,10 +102,10 @@ Outside of software development, I enjoy photography, visual storytelling, graph
 ## GitHub Statistics
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=transparent&hide_border=true&title_color=FF6300&icon_color=FF6300" height="165" alt="Hirun's GitHub statistics" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=transparent&hide_border=true&title_color=FF6300" height="165" alt="Hirun's most used languages" />
+<img src="https://github-readme-stats.vercel.app/api?username=hirunhansaka01&show_icons=true&theme=transparent&hide_border=true&title_color=FF6300&icon_color=FF6300" height="165" alt="Hirun's GitHub statistics" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hirunhansaka01&layout=compact&theme=transparent&hide_border=true&title_color=FF6300" height="165" alt="Hirun's most used languages" />
 </p> <p align="center">
-  <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=transparent&hide_border=true&ring=FF6300&fire=FF6300&currStreakLabel=FF6300" alt="Hirun's GitHub contribution streak" />
+  <img src="https://streak-stats.demolab.com?user=hirunhansaka01&theme=transparent&hide_border=true&ring=FF6300&fire=FF6300&currStreakLabel=FF6300" alt="Hirun's GitHub contribution streak" />
 </p>
 
 ---
@@ -113,7 +114,7 @@ Outside of software development, I enjoy photography, visual storytelling, graph
 
 I'm open to collaborating on interesting projects, discussing technology and design, and learning from other developers and creators.
 
-- **GitHub:** [@hirunhansaka01](https://github.com/YOUR_USERNAME)
+- **GitHub:** [@hirunhansaka01](https://github.com/hirunhansaka01)
 
 - **Portfolio:** [Visit my website](https://YOUR_WEBSITE)
 
